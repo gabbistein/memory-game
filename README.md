@@ -1,2 +1,2 @@
-# memory-game
-This game will test your short-term memory, good luck!
+# Multiples Memory Game
+### *This game is a test of your short term memory. Good luck!*
